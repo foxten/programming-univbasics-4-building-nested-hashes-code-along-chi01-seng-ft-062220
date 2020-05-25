@@ -15,9 +15,13 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => [{
-        
+        :name => "Benvolio",
+        :age => "17", 
+        :attitude => "worried"
       },{
-        
+        :name => "Mercutio",
+        :age => "18", 
+        :attitude => "hot-headed"
       }]
    }, 
    :capulet => {
@@ -35,9 +39,13 @@ def third_challenge
         :status => "alive"
         },
       :heroine_friends => [{
-        
+        :name => "Steven",
+        :age => "30", 
+        :attitude => "confused"
       },{
-        
+        :name => "Nurse",
+        :age => "44" , 
+        :attitude => "worried"
       }]
    }
   }
